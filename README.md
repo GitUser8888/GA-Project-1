@@ -39,7 +39,7 @@ There are 2 datasets included in the [`data`](./data/) folder for this project. 
 
 1. There is a slight positive correlation between the total rainfall and the number of rainy days in a month
 2. Both the total rainfall and the number of rainy days in a month generally follow a normal distribution
-3. There appears to be increased volatility of the increase and decrease of rainfall between the high and low rainfall cycles through the years, which supports the observation of extreme weather and rainfall variations
+3. There appears to be increased volatility of the increase and decrease of rainfall between the high and low rainfall cycles through the years, which supports the observation of increasingly extreme weather and rainfall variations
 
 
 ---
@@ -48,7 +48,7 @@ There are 2 datasets included in the [`data`](./data/) folder for this project. 
 
 The recommended next steps include:
 
-1. Analyse rainfall variations within each district of Singapore to prioritise efforts on districts that have higher rainfall in the case of limited budget and resources
-2. Build a model to predict the future amount of rainfall and length of extreme wet and dry periods, taking into account the extreme weather variations
+1. Analyse rainfall variations between each district of Singapore to prioritise efforts on districts that have higher rainfall and more prone to flooding, in the case of limited budget and resources
+2. Build accurate models to predict the future amount of rainfall and length of extreme wet and dry periods, taking into account the extreme weather variations
 3. Review existing drainage system and identify gaps in future-proofing flood and stormwater management measures
 4. Review existing urban plans, especially for older estates, to determine and plug gaps in flood preparedness, as well as on-site mitigation measures such as detention tanks, green roofs, rain gardens or retention ponds
