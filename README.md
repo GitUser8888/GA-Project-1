@@ -48,6 +48,7 @@ There are 2 datasets included in the [`data`](./data/) folder for this project. 
 
 The recommended next steps include:
 
-1. Build a model to predict the future amount of rainfall and length of extreme wet and dry periods, taking into account the extreme weather variations
-2. Review existing drainage system and identify gaps in future-proofing flood and stormwater management measures
-3. Review existing urban plans, especially for older estates, to determine and plug gaps in flood preparedness, as well as on-site mitigation measures such as detention tanks, green roofs, rain gardens or retention ponds
+1. Analyse rainfall variations within each district of Singapore to prioritise efforts on districts that have higher rainfall in the case of limited budget and resources
+2. Build a model to predict the future amount of rainfall and length of extreme wet and dry periods, taking into account the extreme weather variations
+3. Review existing drainage system and identify gaps in future-proofing flood and stormwater management measures
+4. Review existing urban plans, especially for older estates, to determine and plug gaps in flood preparedness, as well as on-site mitigation measures such as detention tanks, green roofs, rain gardens or retention ponds
