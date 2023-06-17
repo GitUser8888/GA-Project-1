@@ -2,7 +2,7 @@
 
 ### Overview
 
-For the first project, we're going to analyze climate trends in Singapore. Climate refers to the general weather conditions prevailing over an area for a long period. There are several aspect to studying climate, in this project, we will be focusing on rainfall.
+This is the first project that is completed as part of the General Assembly Data Science Immersive curriculum. For the first project, we're going to analyze climate trends in Singapore. Climate refers to the general weather conditions prevailing over an area for a long period. There are several aspect to studying climate, in this project, we will be focusing on rainfall.
 
 
 ---
